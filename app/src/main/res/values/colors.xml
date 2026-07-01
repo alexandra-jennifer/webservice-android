@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama -->
+    <color name="colorPrimary">#6C63FF</color>
+    <color name="colorPrimaryDark">#574FD6</color>
+    <color name="colorGradientEnd">#9C88FF</color>
+    <color name="colorFAB">#FF6B6B</color>
+    <color name="colorBackground">#F0F2FF</color>
+
+    <!-- Teks -->
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextLight">#BDBDBD</color>
+
+    <!-- Warna Kartu (Bergantian per item) -->
+    <color name="cardColor1">#FF6B6B</color>
+    <color name="cardColor2">#4ECDC4</color>
+    <color name="cardColor3">#FFD93D</color>
+    <color name="cardColor4">#6BCB77</color>
+    <color name="cardColor5">#4D96FF</color>
+    <color name="cardColor6">#FF922B</color>
+
+    <!-- Warna Tombol Form -->
+    <color name="colorBtnSimpan">#6C63FF</color>
+    <color name="colorBtnHapus">#FF6B6B</color>
+    <color name="colorBtnBatal">#9E9E9E</color>
+</resources>
